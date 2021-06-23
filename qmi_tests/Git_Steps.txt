@@ -1,0 +1,10 @@
+1. cd to a particular folder
+2. git status => It will throw an error since its not a git repository.
+3. git init => To make it a git repository
+4. git status => It will say files are untracked first
+5. git add <file_name> => Now it will be tracked.
+6. git commit -m "commit 1" => This will be commited to local repository
+7. Now make some changes in the file and do git status
+8. To again commit the changes, first git add <file name> => git commit -m "commit 2"
+9. git diff <file_name> => This will show the diff b/w the previous commit and changes after that.
+10. 
