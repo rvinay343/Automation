@@ -7,4 +7,27 @@
 7. Now make some changes in the file and do git status
 8. To again commit the changes, first git add <file name> => git commit -m "commit 2"
 9. git diff <file_name> => This will show the diff b/w the previous commit and changes after that.
-10. 
+10. git log <file_name> => Provides previous commit details.
+
+
+Remote repository:-
+1. www.github.com
+2. Login with your gmail ID
+3. Create a git repository from the "+" symbol on top right.
+4. Once created it will only give the option to push the changes
+Ex:-
+git remote add origin https://github.com/rvinay343/Automation.git
+git branch -M main
+git push -u origin main
+
+Cloning[Done only once]:-
+1. In the github you will get the link to download, under code.
+2. Copy the link and give the user who wants to clone.
+Ex:- https://github.com/rvinay343/Automation.git
+3. git clone <link_shared_above> => This will download a copy if the complete folder.
+
+To download the changes :-
+1. git pull => This will download all the latest changes.
+
+
+
