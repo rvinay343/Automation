@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1800a0c-347d-4a84-8f8b-68a0dfeefb80" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/qmi_tests/Git_Steps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/qmi_tests/Git_Steps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qmi_tests/test_qmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/qmi_tests/test_qmi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,16 +16,25 @@
       <file leaf-file-name="test_qmi.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/qmi_tests/test_qmi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +43,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/qmi_tests/test_efs_backup.py" />
+        <option value="$PROJECT_DIR$/mrc_scripts/__init__.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/qmi_tests/test_qmi.py" />
       </list>
     </option>
@@ -56,6 +67,11 @@
             <path>
               <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="mrc_scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
@@ -121,13 +137,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mrc_scripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/qmi_tests/test_qmi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
